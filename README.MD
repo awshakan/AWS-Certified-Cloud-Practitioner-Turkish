@@ -33,7 +33,7 @@ Bu eğitimde aşağıdaki konuları öğreneceksiniz.
 * Basit güvenlik ve denetleme yapısı ve AWS ortak güvenlik ve sorumluluk modeli.
 * Faturalama, hesap yönetimi ve ücretlendirme modelleri. 
 * Resmi  dökümantasyonlar ve teknik destek kaynakları.
-* `The AWS Cloud value proposition`
+* AWS Cloud sağladığı katkı ve değerler
 * AWS Cloud üzerinde geliştirme ve operasyonel faliyetlere genel bakış.
 
 
@@ -56,26 +56,36 @@ Eğitim yaklaşık 10 saat sürecek ve internatif bir sunum şeklinde olacaktır
 ### Konular
 Bu eğitim aşağıdaki konuları işlemektedir.
 
-* AWS Cloud Practitioner Tanıtımı
+* AWS Cloud Practitioner Eğitim Tanıtımı
 * AWS Cloud Hakkında Temel Bilgiler
-	- Cloud Giriş
-	- AWS Cloud Giriş
-
 * Temel AWS Servisleri (Core Services)
 	- AWS Servis ve Türleri
 	- AWS Global Infrastructure
 	- Amazon VPC 
 	- Security Groups
 	- Compute Services
-	- AWS Storage Services
-	- AWS Database Solutions
+	- Amazon Elastic Compute Cloud (EC2)
+	- AWS Lambda
+	- AWS Elastic Beanstalk
+	- Application Load Balancer
+	- Elastic Load Balancer
+	- Auto Scaling
+	- Amazon Elastic Block Storage (EBS)
+	- Amazon Simple Storage Services (S3)
+	- Amazon Glacier
+	- Amazon Relational Database Services (RDS)
+	- Amazon DynamoDB
+	- Amazon Redshift
+	- Amazon Aurora
+	- AWS Trusted Advisor
+
 * AWS Güvenlik Temelleri Essentials
-	- AWS Güvenlik giriş
+	- AWS Security
 	- AWS Shared Responsibility Model
 	- AWS Access Control and Management
 	- AWS Security Compliance Programs
 	- AWS Security Resources
-* AWS Architecting
+* AWS Mimarisi
 	- Well-Architected Framework
 	- Fault Tolerance and High Availability
 	- Web Hosting
