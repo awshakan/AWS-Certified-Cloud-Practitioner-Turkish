@@ -1,0 +1,436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Atti",
+				"AttributeName"
+			],
+			[
+				"ema",
+				"emailgir"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"nav",
+				"nav"
+			],
+			[
+				"js",
+				"js-scroll-trigger"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"co",
+				"code\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"col-sm",
+				"col-sm-4"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"alin",
+				"text-align"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fil",
+				"file"
+			],
+			[
+				"live",
+				"lives"
+			],
+			[
+				"like",
+				"likes"
+			],
+			[
+				"st",
+				"stdin"
+			],
+			[
+				"se",
+				"second"
+			],
+			[
+				"tabb",
+				"tabby_cat"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"url",
+				"urlopen"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"bs",
+				"bsObj"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 29.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"enabe ",
+				"Enable Autorefresh"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"plugin",
+				"Plugin Development: Profile Events"
+			]
+		],
+		"width": 460.0
+	},
+	"console":
+	{
+		"height": 338.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Hakan/Documents/aws/README.md",
+		"/Users/Hakan/Downloads/test3.json",
+		"/Users/Hakan/Downloads/test2.template",
+		"/Users/Hakan/Desktop/15082018-cloudformation/vpc1.json",
+		"/Users/Hakan/Desktop/Consumable.csv",
+		"/Users/Hakan/Desktop/testboto1.py",
+		"/Users/Hakan/Downloads/aws-cda-2018-5182f914-5d73-45ba-a47f-b6f826a5482a (1)/hellocloudgurus.py",
+		"/Users/Hakan/Downloads/aws-cda-2018-5182f914-5d73-45ba-a47f-b6f826a5482a (1)/index.html",
+		"/Users/Hakan/Downloads/aws-cda-2018-5182f914-5d73-45ba-a47f-b6f826a5482a/index.html",
+		"/Users/Hakan/Downloads/aws-cda-2018-5182f914-5d73-45ba-a47f-b6f826a5482a/hellocloudgurus.py",
+		"/Users/Hakan/Downloads/aws-cda-33877c77-3279-48bd-91a9-1314e24b7620 (2).sh",
+		"/Users/Hakan/Downloads/aws-csysops-28e2834d-02f9-498f-9a21-d68c47aadab4 (1).sh",
+		"/Users/Hakan/Downloads/docker-multicontainer-v2/php-app/static.html",
+		"/Users/Hakan/Downloads/docker-multicontainer-v2/php-app/index.php",
+		"/Users/Hakan/Downloads/docker-multicontainer-v2/Dockerrun.aws.json",
+		"/Users/Hakan/Downloads/docker-singlecontainer-v1/Dockerfile",
+		"/Users/Hakan/Downloads/docker-singlecontainer-v1/application.py",
+		"/Users/Hakan/Downloads/docker-singlecontainer-v1/Dockerrun.aws.json",
+		"/Users/Hakan/Desktop/acloudguru-cllab1.json",
+		"/Users/Hakan/Desktop/delete2.json",
+		"/Users/Hakan/Downloads/aws-csysops-28e2834d-02f9-498f-9a21-d68c47aadab4.sh",
+		"/Users/Hakan/Downloads/moviedata.json",
+		"/Users/Hakan/Desktop/Web Design/www.elektronikmiras.com/Signin/style/signin.css",
+		"/Users/Hakan/Desktop/Web Design/www.elektronikmiras.com/Signin/index.html",
+		"/Users/Hakan/Desktop/Web Design/www.elektronikmiras.com/Signin/signin.css",
+		"/Users/Hakan/Desktop/Web Design/www.elektronikmiras.com/Signin/test.html",
+		"/Users/Hakan/Google Drive/Transfer/key.txt",
+		"/Users/Hakan/Desktop/Bootstrap Website Starter Files/index.html",
+		"/Users/Hakan/Downloads/startbootstrap-freelancer-gh-pages/index.html",
+		"/Users/Hakan/Documents/35+/CSA/test2.html",
+		"/Users/Hakan/Documents/35+/CSA/test2.css",
+		"/Users/Hakan/Documents/35+/CSA/index.html",
+		"/Users/Hakan/Documents/35+/CSA/test.css",
+		"/Users/Hakan/Documents/35+/TTWEB/index.html",
+		"/Users/Hakan/Downloads/pace-1.0.2/pace.js",
+		"/Users/Hakan/Documents/35+/TTWEB/style.css",
+		"/Users/Hakan/Documents/35+/TTWEB/contact.html",
+		"/Users/Hakan/Documents/35+/TTWEB/career.html",
+		"/Users/Hakan/Documents/35+/TTWEB/About.html",
+		"/Users/Hakan/Documents/35+/TTWEB/signin.css",
+		"/Users/Hakan/Documents/35+/TTWEB/amazonmain.html",
+		"/Users/Hakan/Documents/35+/TTWEB/singin.html",
+		"/Users/Hakan/Documents/35+/TTWEB/home.html",
+		"/Users/Hakan/Library/Application Support/Sublime Text 3/Packages/User/Auto Refresh.sublime-settings",
+		"/Users/Hakan/Downloads/restriction.html",
+		"/Users/Hakan/Desktop/restriction.html",
+		"/Users/Hakan/Desktop/Web Design/div.html",
+		"/Users/Hakan/Desktop/Web Design/tables.html",
+		"/Users/Hakan/Desktop/Web Design/style.css",
+		"/Users/Hakan/Desktop/Web Design/colors.html",
+		"/Users/Hakan/Desktop/Web Design/index.html",
+		"/Users/Hakan/Desktop/Web Design/page1.html",
+		"/Users/Hakan/Desktop/Web Design/test.html",
+		"/Users/Hakan/Desktop/Web Design/test.json",
+		"/Users/Hakan/Desktop/Web Design/amazon.css",
+		"/Users/Hakan/Desktop/page1.html",
+		"/Users/Hakan/Desktop/test.html",
+		"/Users/Hakan/Downloads/UserData 2.sh",
+		"/Users/Hakan/Desktop/aws/test.json",
+		"/Users/Hakan/Documents/scanned documents/ucus.txt",
+		"/Users/Hakan/Downloads/UserData.sh",
+		"/Users/Hakan/Desktop/test.py",
+		"/Users/Hakan/Desktop/index.html",
+		"/Users/Hakan/Desktop/error.html",
+		"/Users/Hakan/Downloads/aws-certified-cloud-practitioner-91e86c07-b73e-41d6-adf5-d5c0885b4930/bucketpolicypermissions.json",
+		"/Users/Hakan/Desktop/raspi/index.html",
+		"/Users/Hakan/Desktop/ex13.rb",
+		"/Users/Hakan/Desktop/15.rb",
+		"/test.py",
+		"/Users/Hakan/Desktop/ex15_sample_txt",
+		"/Users/Hakan/Desktop/ex14.rb",
+		"/Users/Hakan/Desktop/test.rb",
+		"/Users/Hakan/Desktop/ex12.rb",
+		"/Users/Hakan/Desktop/ex10.rb",
+		"/Users/Hakan/Desktop/ex11.rb",
+		"/test.rb",
+		"/Users/Hakan/Downloads/letter-gen-master/README",
+		"/Users/Hakan/Library/Application Support/Sublime Text 2/Packages/User/test.py",
+		"/Users/Hakan/Library/Application Support/Sublime Text 2/Packages/User/test2.py",
+		"/Users/Hakan/Library/Application Support/Sublime Text 2/Packages/User/5iaa.py"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 33.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.6.sublime-build",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
