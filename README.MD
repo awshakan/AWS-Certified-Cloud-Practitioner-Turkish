@@ -7,6 +7,8 @@ AWS Training and Certiﬁcation sitesinde yer alan **AWS Cloud Practitioner Esse
 
 İlk başta bütün eğitimi içeriğinin türkçe çevirisi yapılacak, bunu takiben eğitim içerisinde kullanılan görseller türkçeleştirilecek. Yapılan çeviriler seslendirmeye uygun olarak düzenlecek ve sunum içerisinde kullanılacak şekilde hazırlanacak. Son olarakta eğitimin sunum olarak hazır hale getirilip yayınlacaktır.
 
+Üzerinde fikir almak için ilk versiyon yayınlandı. [Youtube >>> ](https://youtu.be/Li0ceITZ_wc)
+
 
 ### Eğitim Hakkında
 
